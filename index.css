@@ -541,7 +541,7 @@ header{
     background-color: transparent;
     overflow-x: auto;
     overflow-y: hidden;
-    top: 350px;
+    bottom: 10%;
     right: 2%;
     margin-left: 200px;
 }
